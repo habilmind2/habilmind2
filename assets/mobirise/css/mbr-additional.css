@@ -45,6 +45,13 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Oxygen', sans-serif;
 }
+.btn:not(.btn-social) {
+  border-radius: 30px;
+  padding: 17px 50px;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
@@ -396,9 +403,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #000;
 }
-.scrollToTop_wraper {
-  display: none;
-}
 /* DirectM */
 a {
   color: #74a3c7;
@@ -656,4 +660,24 @@ a:hover {
 }
 #msg-box3-c P {
   color: #ffffff;
+}
+#subscribe1-d .form-control-label {
+  color: undefined;
+}
+#form1-g .form {
+  background: #fafbfc;
+}
+#counters1-k .count {
+  color: #74a3c7;
+}
+#features8-l .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#features8-m .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#footer1-f .card-title {
+  color: #fffffd;
 }
