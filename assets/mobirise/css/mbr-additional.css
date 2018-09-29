@@ -585,7 +585,7 @@ a:hover {
   color: #5aac98!important;
 }
 #menu1-0 .navbar-caption {
-  font-size: 20px;
+  font-size: 25px;
 }
 #header5-1 .mbr-section-title,
 #header5-1 .mbr-section-subtitle {
@@ -655,20 +655,14 @@ a:hover {
   color: #616161;
   border-color: #616161;
 }
-#msg-box3-c H1 {
-  color: #ffffff;
+#tabs3-1c H3 {
+  color: #000000;
 }
-#msg-box3-c P {
-  color: #ffffff;
+#tabs3-1e H3 {
+  color: #000000;
 }
-#subscribe1-d .form-control-label {
-  color: undefined;
-}
-#form1-g .form {
-  background: #fafbfc;
-}
-#counters1-k .count {
-  color: #74a3c7;
+#tabs3-1f H3 {
+  color: #000000;
 }
 #features8-l .mbr-iconfont {
   color: #5aac98;
@@ -678,6 +672,179 @@ a:hover {
   color: #5aac98;
   border-color: #5aac98;
 }
+#counters1-k .count {
+  color: #74a3c7;
+}
+#features7-1b .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#subscribe1-d .form-control-label {
+  color: undefined;
+}
+#form1-g .form {
+  background: #fafbfc;
+}
 #footer1-f .card-title {
   color: #fffffd;
+}
+#footer1-f .card-text {
+  color: #fffffd;
+}
+#menu1-o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-o .navbar-toggler {
+  color: #74a3c7;
+}
+#menu1-o .close-icon::before,
+#menu1-o .close-icon::after {
+  background-color: #74a3c7;
+}
+#menu1-o .link,
+#menu1-o .dropdown-item {
+  color: #74a3c7;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-o .link {
+  font-size: 0.8125rem;
+}
+#menu1-o .dropdown-item,
+#menu1-o .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-o .link:hover,
+#menu1-o .link:focus {
+  color: #5aac98;
+}
+#menu1-o .dropdown-item:hover::before,
+#menu1-o .dropdown-item:focus::before {
+  background: #5aac98;
+}
+#menu1-o .dropdown-item:hover,
+#menu1-o .dropdown-item:focus {
+  color: #74a3c7;
+}
+#menu1-o .link[aria-expanded="true"],
+#menu1-o .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-o .nav-dropdown-sm .link:focus,
+#menu1-o .nav-dropdown-sm .link:hover,
+#menu1-o .nav-dropdown-sm .dropdown-item:focus,
+#menu1-o .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-o .navbar,
+#menu1-o .nav-dropdown-sm,
+#menu1-o .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-o .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-o .bg-color.transparent .link {
+  color: #74a3c7;
+  transition: none;
+}
+#menu1-o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-o .bg-color.transparent.opened .link:hover,
+#menu1-o .bg-color.transparent.opened .link:focus {
+  color: #5aac98;
+}
+#menu1-o .link[aria-expanded="true"],
+#menu1-o .dropdown-item[aria-expanded="true"] {
+  color: #5aac98!important;
+}
+#menu1-o .navbar-caption {
+  font-size: 25px;
+}
+#header5-p .mbr-section-title,
+#header5-p .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#header5-p .mbr-table-cell {
+  vertical-align: middle;
+}
+#features3-r .mbr-iconfont {
+  background: #5aac98;
+  border-color: #5aac98;
+}
+#features3-r .features {
+  background: #f6f7f8;
+}
+#header1-s .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#header1-s .mbr-table-cell {
+  vertical-align: bottom;
+}
+#header1-s .heading-title {
+  color: #fffffd;
+}
+#header1-s .heading-text {
+  color: #fffffd;
+}
+#header1-s .heading-title B {
+  color: #fffffd;
+}
+#header2-t .mbr-section-title,
+#header2-t .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header2-t .mbr-table-cell {
+  vertical-align: middle;
+}
+#features20-u .mbr-section-title,
+#features20-u .mbr-section-subtitle,
+#features20-u .mbr-section-text {
+  color: #fff;
+}
+#features20-u .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#features4-v .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#features4-v .card-img a {
+  border-width: 2px;
+  line-height: 72px;
+}
+#features4-v .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
+}
+#msg-box3-x H1 {
+  color: #ffffff;
+}
+#msg-box3-x P {
+  color: #ffffff;
+}
+#form1-z .form {
+  background: #fafbfc;
+}
+#counters1-11 .count {
+  color: #74a3c7;
+}
+#features8-13 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#features8-14 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#footer1-16 .card-title {
+  color: #fffffd;
+}
+#footer1-16 .card-text {
+  color: #fffffd;
+}
+#form1-17 .form {
+  background: #fafbfc;
 }

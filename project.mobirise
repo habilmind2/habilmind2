@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 52,
     "versionPublish": "4.8.3"
   },
   "pages": {
@@ -91,7 +91,7 @@
               "color": "#5aac98!important"
             },
             ".navbar-caption": {
-              "font-size": "20px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -112,7 +112,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CARACTERÍSTICAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-g\" aria-expanded=\"true\">CONTACTAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">TE LLAMAMOS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4\" aria-expanded=\"false\">CARACTERÍSTICAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-g\" aria-expanded=\"false\">CONTACTAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html#form1-g\">CONTACTAR</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -129,7 +129,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SISTEMA MIND</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SISTEMA MIND</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Tema"
@@ -167,8 +167,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "Matemáticas y lengua<br>2.0",
-          "text": "Cambiamos el enfoque de las dos asignaturas de más peso en el sistema educativo<br>para lograr el mejor desarrollo cognitivo y socioemocional del estudiante.<br>Sólo para primaria.",
+          "title": "Matemáticas y lengua 2.0",
+          "text": "Cambiamos el enfoque de las dos asignaturas de más peso en el sistema educativo<br>para lograr el mejor desarrollo cognitivo y socioemocional del estudiante.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-g\" data-toolbar=\"-mbrBtnMove\">Te llamamos gratis</a>",
           "_tags": [
             "Tema"
@@ -187,7 +187,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "containerColor1": "#bf359d",
@@ -223,6 +223,1876 @@
           ],
           "_name": "header7",
           "_anchor": "header7-3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "3",
+            "featuresBg": "#f6f7f8",
+            "showFeaturesHeader": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Características",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "Para centros escolares",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title1": "Nuevos contenidos",
+          "subtitle1": "Awesome",
+          "text1": "Los contenidos de matemáticas y lengua incluyen, de manera integrada, el desarrollo de habilidades cognitivas que facilitan el aprendizaje del estudiante. Mismo currículum, diferente enfoque.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "sun",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title2": "Metodologías activas",
+          "subtitle2": "Awesome",
+          "text2": "Las matemáticas y lengua del Sistema Mind incluyen actividades diseñadas por expertos en aprendizaje por proyectos, aprendizaje cooperativo, la simulación, etc.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title3": "Enseñanza personalizada real",
+          "subtitle3": "Awesome",
+          "text3": "El docente accede mediante su smartphone, a multitud de datos sobre sus estudiantes, como el estado de cada habilidad cognitiva, indicadores emocionales, estilos de aprendizaje, etc.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title4": "Entrenamiento cognitivo activo",
+          "subtitle4": "Awesome",
+          "text4": "Las habilidades cognitivas son las herramientas más importante para el aprendizaje. Mind incluye tres plataformas de entrenamiento: Lectópolis, Textópolis y Aurora",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title5": "Desarrollo socioemocional",
+          "subtitle5": "Awesome",
+          "text5": "La situación emocional del estudiante influye poderosamente en su aprendizaje. Incluimos el programa Emotional Mind para mejorar diversos indicadores socioemocionales del grupo",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title6": "Gamificación",
+          "subtitle6": "Awesome",
+          "text6": "El aprendizaje es el mejor de los juegos. La gamificación hace que los estudiantes estén más motivados por conocer.&nbsp;",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Ampliar</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#f6f7f8"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "showArrow": true,
+            "showFeatures": true,
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#fff",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1320.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#5b5f6b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#bb8c2e",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Contenidos",
+          "text": "En las exigencias del currículum se pueden intercalar las actividades de desarrollo cognitivo",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "cust-feedback",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title1": "Razonamiento Verbal",
+          "subtitle1": "Awesome",
+          "text1": "&nbsp;Desarrollo del vocabulario, la lectura comprensiva básica y el seguimiento de información extensa",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title2": "Razonamiento matemático",
+          "subtitle2": "Awesome",
+          "text2": "Desarrollo de la captación de hechos matemáticos, juicio crítico matemático y solución de retos matemáticos",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "file",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title3": "Habilidades de lectura",
+          "subtitle3": "Awesome",
+          "text3": "Desarrollo de la captación visual, discriminación visual y la lectura rápida y precisa",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-6",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "bottom"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "color": "#fffffd"
+            },
+            ".heading-title B": {
+              "color": "#fffffd"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#631c70",
+            "containerColor2": "#3ca8c7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "title": "Metodologías activas",
+          "text": "El Sistema Mind incluye actividades adaptadas a las diferentes metodologías activas que lleve a cabo el centro escolar, además de una herramienta de generación de grupos desarrollada por Habilmind.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7"
+        },
+        {
+          "_inherit": "features13",
+          "_styles": {
+            ".mbr-section-title,.mbr-section-subtitle,.mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "columns": "4",
+            "showFeaturesImages": true,
+            "iconsBgColor": "#fff",
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/09.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.85
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "title": "Enseñanza personalizada real:<br>La plataforma Habilmind",
+          "text": "El Sistema Mind incluye la plataforma Habilmind, utilizada en más de 1600 colegios de 20 países.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "Desde el smartphone es docente podrá acceder a &nbsp;decenas de indicadores &nbsp;relacionados con el aprendizaje de sus alumnos",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Estos indicadores son cognitivos, socioemocionales y fisioneurológicos",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "La obtención de los diagnósticos se realiza mediante pruebas online desarrolladas por Habilmind",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Los informes a los que accede el docente incluyen recomendaciones prácticas en función de los resultados",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features20",
+          "_anchor": "features20-8"
+        },
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#616161",
+              "border-color": "#616161"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#616161",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/features4.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.8
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "title": "Entrenamiento cognitivo activo",
+          "text": "Mind incluye tres plataformas centradas en la lectura, la creación de textos y el entrenamiento matemático",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "align-left",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title1": "Lectópolis",
+          "subtitle1": "Awesome",
+          "text1": "LECTÓPOLIS es un programa que desarrolla las destrezas necesarias para leer, comprender y producir distintos tipos de textos, de un modo eficiente en cualquier contexto y con diferentes propósitos.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title2": "Textópolis",
+          "subtitle2": "Awesome",
+          "text2": "TEXTÓPOLIS es un programa que desarrolla las destrezas necesarias para leer, comprender y producir distintos tipos de textos, de un modo eficiente en cualquier contexto y con diferentes propósitos.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title3": "Aurora",
+          "subtitle3": "Awesome",
+          "text3": "AURORA es un programa que desarrolla las destrezas necesarias para leer, comprender y producir distintos tipos de textos, de un modo eficiente en cualquier contexto y con diferentes propósitos.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features4",
+          "_anchor": "features4-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 70,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "src": "https://vimeo.com/218831465",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "title": "Educación Emocional",
+          "text": "La educación emocional es clave para que el aprendizaje logre su máximo potencial. El Sistema Mind incluye la plataforma Emotional Mind desarrollado por expertos de la Universidad de Lleida",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 58,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/03.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Sistema gamificado",
+          "text": "Las ventajas de utilizar un sistema gamificado son:<br><br>1.&nbsp;Los juegos motivan y refuerzan habilidades y conocimientos<br>2. Fomenta la competencia y ofrece un estatus<br>3. Estimula la conexión social<br>4. Aumenta el grado de dificultad de forma progresiva<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitles": true,
+            "showTabsList": false,
+            "showButtons": true,
+            "tabs": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#dfd9ca",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.8
+          },
+          "title": "Con Sistema Mind podrás obtener:",
+          "title1": "Certificado Eduqatia \"Red Internacional de Escuelas para la Convivencia\"",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/almazan-premio-1000habilmind-300x168.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "tabs3",
+          "_anchor": "tabs3-1c",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitles": true,
+            "showTabsList": false,
+            "showButtons": true,
+            "tabs": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#dfd9ca",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.8
+          },
+          "title": "Features with tabs",
+          "title1": "Certificado UNIR \"Escuela Apta para las Altas Capacidades y Talentos Especiales\"",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20151110-siep-touron2-600x400.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "tabs3",
+          "_anchor": "tabs3-1e",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitles": true,
+            "showTabsList": false,
+            "showButtons": true,
+            "tabs": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#dfd9ca",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.8
+          },
+          "title": "Features with tabs",
+          "title1": "Compliance Habilmind de Prevención de Delitos contra los Menores",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ampliar</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/compliance-en-pymes-600x400.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "tabs3",
+          "_anchor": "tabs3-1f",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "autoplay": true,
+            "arrowColor": "#e3e3e3",
+            "timeout": 5,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffd785",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+                "authorName": "Isauro Blanco",
+                "authorBio": "Experto en contenidos que desarrollan habilidades. Creador del Sistema Educativo ASC.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/seleccion-391-160x111.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Gemma Filella",
+                "authorBio": "Experta en el desarrollo de las habilidades sociales. Autora de Emotional Mind. Universidad de Lleida",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2018-09-29-a-las-12.21.22-160x149.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Carlos Yuste",
+                "authorBio": "Experto en análisis cognitivos. Autor de la batería BADYG.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2018-09-29-a-las-12.18.37-160x154.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+                "authorName": "Javier Tourón",
+                "authorBio": "Experto en altas capacidades, &nbsp;vicerrector de la UNIR",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/fbfzkzob-400x400-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Luis Darbonens",
+                "authorBio": "Experto en gamificación para estudiantes de primaria. Profesor del Colegio Inmaculado corazón de María de Logroño. Universidad de La Rioja.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/081d7gp2-1-160x138.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Pedro Paños",
+                "authorBio": "Experto en plataformas educativas digitales, fundador de Habilmind",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/pedroweb-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Joaquín Arias",
+                "authorBio": "Experto en modelos de negocio educativos. Fundador y director de Habilmind.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/joaquinweb-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Eduardo Villalobos",
+                "authorBio": "Experto en plataformas de desarrollo cognitivo. Editorial Santillana.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/eduardo-villalobos-160x129.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Déborah Martín",
+                "authorBio": "Experta en la aplicación de metodologías activas en el aula. Fundadora &nbsp;de Pedagogía para el Éxito. UNIR.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2018-09-29-a-las-12.32.39-160x159.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Alicia Morón",
+                "authorBio": "Experta en coordinación de equipos pedagógicos. Directora pedagógica en Habilmind. Universidad Autónoma de Madrid.",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/image4337-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "Nuestro equipo",
+          "subtitle": "Los expertos que hacen posible el Sistema Mind",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Partners",
+          "text": "SISTEMA MIND",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/7b58f1eb547092a703fa56e5ff5c592c-icon-256x256.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "Santillana",
+          "subtitle1": "Awesome",
+          "text1": "Contamos con la ayuda y experiencia de la editorial más importante de habla hispana.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ruyx5vys-400x400-400x400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "Habilmind",
+          "subtitle2": "Awesome",
+          "text2": "Habilmind ofrece su plataforma de medición de los factores que influyen en el Aprendizaje",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/amazon-icon-icons.com-62714-512x512.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "Amazon",
+          "subtitle3": "Awesome",
+          "text3": "Amazon es el distribuidor principal de los materiales en papel del Sistema Mind",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-l",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Always on your terms",
+          "text": "Mobirise",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/eqxyweco-400x400-400x400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "UNIR",
+          "subtitle1": "Awesome",
+          "text1": "La UNIR provee de los cursos para docentes y de los cursos de expertos en altas capacidades, así como de herramientas cognitivas.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/200px-escudo-de-la-universidad-complutense-de-madrid.svg-200x228.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "Universidad Complutense",
+          "subtitle2": "Awesome",
+          "text2": "La UCM colabora de manera activa con Habilmind en la generación y validación de pruebas para Mind.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lleida-200x155.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "Universidad de Lleida",
+          "subtitle3": "Awesome",
+          "text3": "El equipo de la Universidad de Lleida está centrado en los aspectos socioemocionales del proyecto y en la validación de instrumentos de esa línea.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-m",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#74a3c7"
+            }
+          },
+          "_params": {
+            "countersColor": "#74a3c7",
+            "showTitles": true,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#f7f7f7",
+            "containerColor2": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.75
+          },
+          "title1": "Colegios",
+          "title2": "Estudiantes",
+          "title3": "Docentes",
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "number1": "1.470",
+          "number2": "258.000",
+          "number3": "55.300",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "¿Con qué asesor te apetece hablar?",
+          "text": "<b>SISTEMA MIND</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aitorweb-300x300.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b>AITOR GONZÁLEZ</b>",
+          "subtitle1": "Awesome",
+          "text1": "Aitor se caracteriza por su enorme simpatía y don de gentes, lo que hace que tenga amigos en todas partes. Igual que da una charla a docentes, te lo puedes encontrar en una comida de directores de colegio eligiendo el vino.&nbsp;<br><br>tel. <b>634 555 404</b>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/carlosweb-300x300.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<b>CARLOS HERRERA</b>",
+          "subtitle2": "Awesome",
+          "text2": "Carlos Herrera tiene otro estilo. Es el guapo de Sistema Mind, tiene club de fans y se le ha llegado a comparar con Alain Delon. Eso sí, su profesionalidad y presencia son intachables.<br><br>tel. <b>692 064 318</b>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features7",
+          "_anchor": "features7-1b",
+          "_styles": {
+            ".mbr-iconfont": {}
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Calle Ferraz 28, 28008, Madrid",
+              "placeId": "ChIJYaWd-W4oQg0RBypTEL2iPsQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#f6f7f8",
+            "overlayOpacity": 0.5
+          },
+          "title": "Si nos das tu email...",
+          "subtitle": "Get notified about new amazing products",
+          "text": "... te podremos enviar novedades cada dos meses",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "joaquin@habilmind.com",
+            "alerts": {
+              "success": "¡Gracias!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Escribe tu email"
+              }
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "subscribe1",
+          "_anchor": "subscribe1-d",
+          "_styles": {
+            ".form-control-label": {}
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Si rellenas el formulario....",
+          "text": "... te podríamos llamar",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "",
+          "form": {
+            "action": "joaquin@habilmind.com",
+            "alerts": {
+              "success": "¡Gracias!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "El mensaje es opcional :-)"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfd9ca",
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "text": "Síguenos",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, ea!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "follow1",
+          "_anchor": "follow1-e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "columns": 3,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "title1": "Partners",
+          "title2": "Sobre nosotros",
+          "title3": "Empleo",
+          "title4": "For Students",
+          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br><a href=\"http://mobirise.com\">Velit, id.</a><br><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br><a href=\"http://mobirise.com\">Veniam, dolores?</a><br><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
+          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
+          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
+          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
+          "copy": "Sistema Mind 2018",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_styles": {
+            ".card-title": {
+              "color": "#fffffd"
+            },
+            ".card-text": {
+              "color": "#fffffd"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "home_co",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            },
+            ".navbar-caption": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4\" aria-expanded=\"false\">CARACTERÍSTICAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-g\" aria-expanded=\"false\">CONTACTAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html#form1-g\">CONTACTAR</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/21-apple-512-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://sistemamind.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SISTEMA MIND</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#084a6e",
+            "containerColor2": "#24a383",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Matemáticas y lengua 2.0",
+          "text": "Cambiamos el enfoque de las dos asignaturas de más peso en el sistema educativo<br>para lograr el mejor desarrollo cognitivo y socioemocional del estudiante.<br>Sólo para primaria.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-g\" data-toolbar=\"-mbrBtnMove\">Te llamamos gratis</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 30,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#bf359d",
+            "containerColor2": "#dc4c35",
+            "containerColor3": "#fdff81",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": false,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Sistema Mind en 2 minutos",
+          "text": "En este breve video encontrarás información resumida. Compártelo con quien desees:&nbsp;https://vimeo.com/218831465",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-q"
         },
         {
           "_params": {
@@ -358,7 +2228,6 @@
             "Tema"
           ],
           "_name": "features3",
-          "_anchor": "features3-4",
           "_styles": {
             ".mbr-iconfont": {
               "background": "@primaryColor",
@@ -367,7 +2236,8 @@
             ".features": {
               "background": "#f6f7f8"
             }
-          }
+          },
+          "_anchor": "features3-r"
         },
         {
           "_params": {
@@ -459,7 +2329,6 @@
             "Tema"
           ],
           "_name": "header1",
-          "_anchor": "header1-6",
           "_styles": {
             ".mbr-iconfont": {
               "color": "#fff",
@@ -477,7 +2346,8 @@
             ".heading-title B": {
               "color": "#fffffd"
             }
-          }
+          },
+          "_anchor": "header1-s"
         },
         {
           "_styles": {
@@ -572,7 +2442,7 @@
             "Tema"
           ],
           "_name": "header2",
-          "_anchor": "header2-7"
+          "_anchor": "header2-t"
         },
         {
           "_inherit": "features13",
@@ -671,7 +2541,7 @@
           "text4": "Los informes a los que accede el docente incluyen recomendaciones prácticas en función de los resultados",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_name": "features20",
-          "_anchor": "features20-8"
+          "_anchor": "features20-u"
         },
         {
           "_inherit": "features2",
@@ -783,7 +2653,7 @@
           "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_name": "features4",
-          "_anchor": "features4-9"
+          "_anchor": "features4-v"
         },
         {
           "_params": {
@@ -796,7 +2666,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "containerColor1": "#094587",
@@ -829,7 +2699,7 @@
             "Tema"
           ],
           "_name": "header6",
-          "_anchor": "header6-b"
+          "_anchor": "header6-w"
         },
         {
           "_styles": {
@@ -924,7 +2794,7 @@
             "Tema"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-c"
+          "_anchor": "msg-box3-x"
         },
         {
           "_params": {
@@ -961,10 +2831,10 @@
             "Tema"
           ],
           "_name": "subscribe1",
-          "_anchor": "subscribe1-d",
           "_styles": {
             ".form-control-label": {}
-          }
+          },
+          "_anchor": "subscribe1-y"
         },
         {
           "_params": {
@@ -1025,12 +2895,12 @@
             "Tema"
           ],
           "_name": "form1",
-          "_anchor": "form1-g",
           "_styles": {
             ".form": {
               "background": "#fafbfc"
             }
-          }
+          },
+          "_anchor": "form1-z"
         },
         {
           "_params": {
@@ -1114,7 +2984,7 @@
             "Tema"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-i"
+          "_anchor": "testimonials1-10"
         },
         {
           "_styles": {
@@ -1156,7 +3026,7 @@
             "Tema"
           ],
           "_name": "counters1",
-          "_anchor": "counters1-k"
+          "_anchor": "counters1-11"
         },
         {
           "_params": {
@@ -1171,7 +3041,7 @@
             "Tema"
           ],
           "_name": "map1",
-          "_anchor": "map1-h"
+          "_anchor": "map1-12"
         },
         {
           "_params": {
@@ -1263,13 +3133,13 @@
             "Tema"
           ],
           "_name": "features8",
-          "_anchor": "features8-l",
           "_styles": {
             ".mbr-iconfont": {
               "color": "@primaryColor",
               "border-color": "@primaryColor"
             }
-          }
+          },
+          "_anchor": "features8-13"
         },
         {
           "_params": {
@@ -1361,13 +3231,13 @@
             "Tema"
           ],
           "_name": "features8",
-          "_anchor": "features8-m",
           "_styles": {
             ".mbr-iconfont": {
               "color": "@primaryColor",
               "border-color": "@primaryColor"
             }
-          }
+          },
+          "_anchor": "features8-14"
         },
         {
           "_params": {
@@ -1391,7 +3261,7 @@
             "Tema"
           ],
           "_name": "follow1",
-          "_anchor": "follow1-e"
+          "_anchor": "follow1-15"
         },
         {
           "_params": {
@@ -1413,25 +3283,94 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title1": "For Business",
-          "title2": "For Developers",
-          "title3": "For Stores",
+          "title1": "Partners",
+          "title2": "Sobre nosotros",
+          "title3": "Empleo",
           "title4": "For Students",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
+          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br><a href=\"http://mobirise.com\">Velit, id.</a><br><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br><a href=\"http://mobirise.com\">Veniam, dolores?</a><br><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
           "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
           "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
           "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "<a href=\"http://mobirise.com\">Mobirise</a>, 2016",
+          "copy": "Sistema Mind 2018",
           "_tags": [
             "Tema"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-f",
           "_styles": {
             ".card-title": {
               "color": "#fffffd"
+            },
+            ".card-text": {
+              "color": "#fffffd"
             }
-          }
+          },
+          "_anchor": "footer1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Te llamamos",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Déjanos hablar contigo",
+          "form": {
+            "action": "joaquin@habilmind.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send message</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          },
+          "_anchor": "form1-17"
         }
       ]
     }
